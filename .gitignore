@@ -65,3 +65,5 @@ test/e2e/reports
 selenium-debug.log
 
 config.js
+options.js
+sqlite-latest.sqlite
